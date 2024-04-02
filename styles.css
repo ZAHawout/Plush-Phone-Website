@@ -94,7 +94,8 @@ body {
     justify-content: center;
     background: url(./Images/ADD)
     background-repeat: no-repeat;
-    background-position: bottom left;
+    background-position: center center;
+    background-size: cover;
 }
 
 /* Footer */
