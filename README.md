@@ -1,7 +1,7 @@
 # Cell Phone Webshop
 
 
-Hosting link: https://YOUR-USERNAME.github.io/PROJECT-NAME/.
+Hosting link: https://zahawout.github.io/Plush-Phone-Website/
 
 
 ## User Stories
